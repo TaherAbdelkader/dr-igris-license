@@ -20,7 +20,7 @@
 
 # Example 2 (Dr. Igris Formatted Device ID):
 # IGRIS-A4B7-91CF-E320-X8K9
-IGRIS-FG9J-HGCA-QJ5D-XP44
+
 
 # Example 3 (Add reason with inline comment):
 # PF30X991 # Blocked due to payment refund on Sept 14
