@@ -1,0 +1,25 @@
+# ==============================================================================
+# DR. IGRIS - REMOTE DEVICE & MOTHERBOARD BLOCKLIST
+# Sovereign Control Registry by Taher Abdelkader (طاهر عبد القادر)
+# Repository: https://github.com/TaherAbdelkader/dr-igris-license
+#
+# INSTRUCTIONS (تعليمات):
+# - Add one Motherboard Serial Number OR Device ID per line.
+# - (أضف سيريال الماذر بورد أو Device ID في سطر منفصل لكل جهاز ترغب في حظره)
+# - Lines starting with '#' or '//' are comments and are ignored.
+# - To unblock a device later, simply delete the line or add '#' before it.
+# - (لإلغاء حظر أي جهاز لاحقاً، قم بحذف السطر أو وضع علامة # قبله)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# BLOCKED MOTHERBOARD SERIALS & DEVICE IDS LIST (قائمة الأجهزة المحظورة):
+# ------------------------------------------------------------------------------
+
+# Example 1 (Motherboard Serial Number):
+# PF2K89AB
+
+# Example 2 (Dr. Igris Formatted Device ID):
+# IGRIS-A4B7-91CF-E320-X8K9
+
+# Example 3 (Add reason with inline comment):
+# PF30X991 # Blocked due to payment refund on Sept 14

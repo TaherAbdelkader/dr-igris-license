@@ -1,0 +1,7 @@
+{
+  "global_lock": false,
+  "global_lock_message": "Dr. Igris service is temporarily suspended by developer Taher Abdelkader.",
+  "min_allowed_version": "2.0.0",
+  "blocked_ids": [],
+  "devices": {}
+}
